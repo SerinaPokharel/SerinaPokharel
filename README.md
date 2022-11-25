@@ -2,7 +2,7 @@
 - 👀 I’m interested in designing and creative coding.
 - 🌱 I’m currently learning C, python.
 - 💞️ I’m looking to collaborate on creative web developments.
-- 📫 How to reach me through my email.
+- 📫 How to reach me, serinapokhrel@gmail.com.
 
 <!---
 SerinaPokharel/SerinaPokharel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
