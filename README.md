@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Orphiic](https://orphiic.github.io)
 
-- 🌱 I’m currently learning **Machine Learning, python.**
+- 🌱 I’m currently learning **Cybersecurity and Ethical Hacking**
 
 - 👨‍💻 All of my projects are available at [https://saylo.vercel.app](https://saylo.vercel.app)
 
